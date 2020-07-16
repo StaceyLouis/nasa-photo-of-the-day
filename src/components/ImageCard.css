@@ -1,0 +1,21 @@
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+ 
+}
+
+.caption{
+    font-size: 1.2rem;
+    color: cornflowerblue;
+    width: 80%;
+    text-transform: capitalize;
+}
